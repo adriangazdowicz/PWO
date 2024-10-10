@@ -4,8 +4,8 @@ public class Main {
 
         System.out.println("Halo1");
         System.out.println("nowy commit");
-
-
         System.out.println("Nowy feature");
+        System.out.println("Nowy feature2");
+        System.out.println("Nowy feature3");
     }
 }
