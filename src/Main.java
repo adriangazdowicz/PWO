@@ -3,7 +3,7 @@ public class Main {
         System.out.println("HAALLOOO123");
 
         public Main(); {
-            System.out.println("Constructor124f 32 3");
+            System.out.println("Constructor124 3");
         };
 
     }
