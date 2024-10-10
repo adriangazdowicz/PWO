@@ -5,6 +5,7 @@ public class Main {
         public Main(){
             System.out.println("Constructor");
         };
+        System.out.println("nowy commit");
 
     }
 }
