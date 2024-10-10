@@ -5,6 +5,7 @@ public class Main {
         System.out.println("Halo1");
         System.out.println("nowy commit");
 
-        System.out.println("Ty będziesz usunięty");
+
+        System.out.println("Nowy feature");
     }
 }
